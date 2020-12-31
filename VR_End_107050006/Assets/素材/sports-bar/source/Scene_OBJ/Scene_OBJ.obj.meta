@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 84590286a2312b9499f006cbb8a28c94
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottle19_Bottles_SceneMat
+    second: {fileID: 2100000, guid: 982d2bfd44429124f9ed861c0bbbbe3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle10Mat
+    second: {fileID: 2100000, guid: 48fa1adb9569ccf4f94dc670f87226c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle11Mat
+    second: {fileID: 2100000, guid: 301fea2a8414fbf47b3cdad11a20997c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle12Mat
+    second: {fileID: 2100000, guid: 99abb9fb54a1c6b4ba58ba371c8c57fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle13Mat
+    second: {fileID: 2100000, guid: cb81d4a1c7187fc44acfd8e5bde25d83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle14Mat
+    second: {fileID: 2100000, guid: d83a08f445064974c8aff93cda49cb3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle15Mat
+    second: {fileID: 2100000, guid: 73cab3f7401ee9a4fbbcc24d45947d14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle16Mat
+    second: {fileID: 2100000, guid: 425c6c454df6a6042a033a83c219135e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle17Mat
+    second: {fileID: 2100000, guid: 3d3f0813e4bcc464aaba81c4d3d5deed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle18Mat
+    second: {fileID: 2100000, guid: 730521d76776adb43a700f8c84fbc1c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle20Mat
+    second: {fileID: 2100000, guid: b90c52172b0a75346b2e28b56c8a0a67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle21Mat
+    second: {fileID: 2100000, guid: c65f897496585ac48aec821d5ceacfae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle22Mat
+    second: {fileID: 2100000, guid: 6238d9db274eed7418efad330c5157ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle23Mat
+    second: {fileID: 2100000, guid: 4b2b22b07cd6b6c4da47d408e213b13d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle24Mat
+    second: {fileID: 2100000, guid: b8768bee54fc2b944bdeba5bb9799c19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle25Mat
+    second: {fileID: 2100000, guid: 92c8ccafb04740c45a66a776a58d60ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle26Mat
+    second: {fileID: 2100000, guid: 3e137e13022498c43a1b37d869c52f62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle27Mat
+    second: {fileID: 2100000, guid: fe658c6ab2db2184ba4527c53f2f8df7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle28Mat
+    second: {fileID: 2100000, guid: e850b4dac1f6d9043a6d5ebe4451ad82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle29Mat
+    second: {fileID: 2100000, guid: 7f0f0afe5dc197c4bad5b73550edd8ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle30Mat
+    second: {fileID: 2100000, guid: 0c81775d48baf1148b8f6a144b25a874, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle31Mat
+    second: {fileID: 2100000, guid: 9201628edbe2c3648b55aa9c3421d913, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle32Mat
+    second: {fileID: 2100000, guid: a83ab8a1050a5ca47a48acb78bda6e00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle33Mat
+    second: {fileID: 2100000, guid: 633d41ddc2251bd42b1dd4f62cf2bdde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle34Mat
+    second: {fileID: 2100000, guid: 24031843017e5c44cb5d02af2b2abcd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle35Mat
+    second: {fileID: 2100000, guid: 0fd05a7a76b2d914fbcc87b73af3e41d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle36Mat
+    second: {fileID: 2100000, guid: 5cc5e940eb14f9648a753afaeec1fc80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle37Mat
+    second: {fileID: 2100000, guid: 63c7fbf8691af8a4fb49771d21ea33be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle38Mat
+    second: {fileID: 2100000, guid: d75f67412ee35d34198e0f68909537ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle39Mat
+    second: {fileID: 2100000, guid: 2929425394fe7374fba4e5807f0cdae7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle3Mat
+    second: {fileID: 2100000, guid: 93e31a29dfd164f41a2306de0827703f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle40Mat
+    second: {fileID: 2100000, guid: 444e27196f0307d47a3ed4f8335a99c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle41Mat
+    second: {fileID: 2100000, guid: df0274d0759130a4484440b8ffda38e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle42Mat
+    second: {fileID: 2100000, guid: 26e4ca8c0cd3aa9428e4392d63615214, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle43Mat
+    second: {fileID: 2100000, guid: 6df90c29d3fe8134fa591c238a7821a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle44Mat
+    second: {fileID: 2100000, guid: 4883f5f403e397a44bd74707ad83c997, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle45Mat
+    second: {fileID: 2100000, guid: e2a1e3a32ecc2574eac242052c704c30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle46Mat
+    second: {fileID: 2100000, guid: 7e1174b6db3c6a74fa5bf0cd6faca6c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle47Mat
+    second: {fileID: 2100000, guid: 4bd0b9b4b32754b4d82969f31b329219, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle48Mat
+    second: {fileID: 2100000, guid: 876cdb0e77439734282189db417fe3f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle49Mat
+    second: {fileID: 2100000, guid: 523ea4062abdfe344a635517e4cd96e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle4Mat
+    second: {fileID: 2100000, guid: 21a2d28401dcf8343b1ebb89b3d52560, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle50Mat
+    second: {fileID: 2100000, guid: 3f4643f12059e5640bc68d64c3222530, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle51Mat
+    second: {fileID: 2100000, guid: 1542aed267f7f7a4c821e8a926a7b736, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle5Mat
+    second: {fileID: 2100000, guid: 6c9f1b5b5ce4e894eadd5f9acae72b30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle6Mat
+    second: {fileID: 2100000, guid: 47e364b701b4a7a488f769c59685c2bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle7Mat
+    second: {fileID: 2100000, guid: 06fe19544fd29fa43abfc7f74f9b6c43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle8Mat
+    second: {fileID: 2100000, guid: 6a2d649b71992ea478da8ae1eabab39d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Scene_Bottle9Mat
+    second: {fileID: 2100000, guid: 68daa2bc7dad11c4fb98ea2318e290fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_BillardBalls_EightBallMat
+    second: {fileID: 2100000, guid: 8b01bf0dd6658cc479ce64bb4e190883, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_BillardBalls_ElevenBallMat
+    second: {fileID: 2100000, guid: 6fd45fd0afc84a743a109f6f8fe736b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_BillardBalls_FifteenBallMat
+    second: {fileID: 2100000, guid: b4f2910f2dadfed4699a1d0f44b5db07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_BillardBalls_FiveBallMat
+    second: {fileID: 2100000, guid: 0097dd0a456289b46b651b8a154f8946, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_BillardBalls_FourBallMat
+    second: {fileID: 2100000, guid: 5bd0e7032b475ef4bb8e85441079bdaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_BillardBalls_FourteenBallMat
+    second: {fileID: 2100000, guid: b148f9c032539b5449fc5dbb93290503, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_BillardBalls_NineBallMat
+    second: {fileID: 2100000, guid: d38fc6678de434f4c89fd61b17641826, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_BillardBalls_OneBallMat
+    second: {fileID: 2100000, guid: 7a4ec800d60e99e41a25f1e2d93f76e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_BillardBalls_SevenBallMat
+    second: {fileID: 2100000, guid: e73e77f833638ef4db39202bfc919089, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_BillardBalls_SixBallMat
+    second: {fileID: 2100000, guid: b7819a4acaa59434a8aae1501326bc95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_BillardBalls_TenBallMat
+    second: {fileID: 2100000, guid: 9fc6534a6dd26474b930885fd323a3a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_BillardBalls_ThirteenBallMat
+    second: {fileID: 2100000, guid: ca57a115a0167324c85e342788be1c85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_BillardBalls_ThreeBallMat
+    second: {fileID: 2100000, guid: 4a94d741371d5dd44bbf06d98423353a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_BillardBalls_TwelveBallMat
+    second: {fileID: 2100000, guid: 08d0b6477c7c2b54ba017cdfce5557ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_BillardBalls_TwoBallMat
+    second: {fileID: 2100000, guid: a343aa72a0dc4b34abf9517b125a171d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_Chair4_ChairsMat
+    second: {fileID: 2100000, guid: 72a4aed25c453ae4b851327defa99987, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_Chairs_Chair1Mat
+    second: {fileID: 2100000, guid: 112346093d1693f49afb1a4b6beb26b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_Chairs_Chair2Mat
+    second: {fileID: 2100000, guid: f4cdf513a15975849a994adb36bfe1d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_Chairs_Chair3Mat
+    second: {fileID: 2100000, guid: 84ff052332f89ab4dac92b9a65430be1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_Chairs_Chair5Mat
+    second: {fileID: 2100000, guid: 0e9c0524916cdb8439042d8222dd0f53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_Chairs_Chair6Mat
+    second: {fileID: 2100000, guid: 329abb10b04b57f44a45a1aaa4144c30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_Chairs_Chair7Mat
+    second: {fileID: 2100000, guid: 97bacb6ea3b927b46bb9a04cb70236a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_Chairs_Chair8Mat
+    second: {fileID: 2100000, guid: 14b04a3c5251f504b95706885caea609, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_FloorMat
+    second: {fileID: 2100000, guid: 5b93554df3548c44d815ab4c5639270f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_Lamp1_LampsMat
+    second: {fileID: 2100000, guid: 370012ef09f672b44a1950237e56de30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_Lamps_Lamp2Mat
+    second: {fileID: 2100000, guid: 44f072ea45ecb734a9daa430fa901487, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_PoolCueMat
+    second: {fileID: 2100000, guid: c39382eea7192ed42b7b49bd3f3d6856, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_PoolTableMat
+    second: {fileID: 2100000, guid: 10f3780ddb4324c4f8545922a5df0e4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_TVMat
+    second: {fileID: 2100000, guid: b13c354c994184c41a413944a8c1e8f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_TableMat
+    second: {fileID: 2100000, guid: 19e1061ebd76d4d4ebf38152d8df912d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_WallMat
+    second: {fileID: 2100000, guid: fab9c745f1975c04bb28806a383ebae9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_WhiteBall_BillardBallsMat
+    second: {fileID: 2100000, guid: 3522d90c4b67a3b45baa5e3eaf7d681b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textureEditorIsolateSelectSet_Scene_PoolTableMat
+    second: {fileID: 2100000, guid: 2002bffcba9188b43af12673328cb6f4, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.05
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.05
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
