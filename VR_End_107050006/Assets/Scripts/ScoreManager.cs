@@ -26,7 +26,7 @@ public class ScoreManager : MonoBehaviour
     /// </summary>
     private void OnTriggerEnter(Collider other)
     {
-        if (other.tag == "飛鏢")
+        if (other.tag == "飛鏢" && other.transform.position.y > 2.4f)                               //如果碰撞物件標籤為飛鏢，且高度>2.4
         {
             AddScore();
             other.GetComponent<Rigidbody>().constraints = RigidbodyConstraints.FreezeAll;           //把飛鏢黏在面板上
