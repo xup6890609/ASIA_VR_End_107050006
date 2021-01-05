@@ -29,6 +29,7 @@ public class ScoreManager : MonoBehaviour
         if (other.tag == "飛鏢")
         {
             AddScore();
+            other.GetComponent<Rigidbody>().constraints = RigidbodyConstraints.FreezeAll;           //把飛鏢黏在面板上
         }
         if (other.transform.root.name =="Player")
         {
@@ -37,7 +38,7 @@ public class ScoreManager : MonoBehaviour
         }
     }
     /// <summary>
-    /// 走出加分區
+    /// 走出加分區，分數回復
     /// </summary>
     private void OnTriggerExit(Collider other)
     {
